@@ -1,4 +1,4 @@
-package com.hdscode.moviesapi;
+package com.hdscode.moviesapi.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
